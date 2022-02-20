@@ -1,7 +1,7 @@
 
 <div align="center">
         <p align="center">
-            <img align="center" src="../assets/icmm_logo.webp" height="100">
+            <img align="center" src="assets/icmm_logo.webp" height="200">
         </p>
         <p align="center">
             <a href="https://twitter.com/upicmm" target="_blank">
